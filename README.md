@@ -27,7 +27,8 @@ This repository contains files related to my assignments for INFO20003 Database 
 │       ├── Feedback.pdf
 │       ├── Specification.pdf
 │       └── Submission.pdf
-└── tree.txt
+├── LICENSE
+└── README.md
 ```
 
 Each assignment folder has at a minimum:
