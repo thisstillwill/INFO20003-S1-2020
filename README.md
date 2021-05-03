@@ -4,7 +4,7 @@
 
 This repository contains files related to my assignments for INFO20003 Database Systems. The class covered a variety of topics:
 
-> "In this subject, students will obtain a deep understanding of the concepts behind database management systems. In particular, the students will get familiar with the database system architecture and will exercise the concepts such as query processing and optimisation, database tuning and transactions, which are the foundation of any modern data processing application."
+> In this subject, students will obtain a deep understanding of the concepts behind database management systems. In particular, the students will get familiar with the database system architecture and will exercise the concepts such as query processing and optimisation, database tuning and transactions, which are the foundation of any modern data processing application.
 
 ## Contents
 
