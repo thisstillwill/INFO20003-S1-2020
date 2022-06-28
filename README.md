@@ -8,7 +8,7 @@ This repository contains files related to my assignments for INFO20003 Database 
 
 ## Contents
 
-* `Assignments` - Directory containing assignment files. Individual assignments are located in subfolders and denoted using the number of the assignment:
+- `Assignments/` - Directory containing assignment files. Individual assignments are located in subfolders and denoted using the number of the assignment:
 
 ```
 .
@@ -33,9 +33,10 @@ This repository contains files related to my assignments for INFO20003 Database 
 
 Each assignment folder has at a minimum:
 
-* a `Specification` file containing the assignment specification
-* a `Submission` file or files containing what was actually submitted
-* a `Feedback` file containing a grade report with rubric and comments
+- a `Specification` file containing the assignment specification
+- a `Submission` file or files containing what was actually submitted
+- a `Feedback` file containing a grade report with rubric and comments
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
